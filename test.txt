@@ -1,3 +1,9 @@
 Hello testing file
 
 hello here in jenkins
+
+chnages doing for Octopus deploy 
+
+new version 0.0.3
+
+Automating using jenkins 
